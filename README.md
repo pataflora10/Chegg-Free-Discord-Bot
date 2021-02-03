@@ -1,6 +1,6 @@
 # Chegg-Discord-Bot
-Chegg Bot for Discord ```Free Version```
-Still works! 
+- Chegg Bot for Discord ```Free Version```
+- Still works! 02.03.21
 
 # Information :
 In the free version you only get the plain image and txt file of answers, if you want to return the answers and questions as a stylized html file with images and texts, contact me on discord ```asmodeus#9771```
